@@ -1,1 +1,2 @@
-add your description of robot here
+A robot which will advise a user for an appropriate outfit based on the weather.
+The robot will scrape data from google and will determine the most appropriate outfit.
